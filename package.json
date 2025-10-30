@@ -1,0 +1,24 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/im-lakshyaa/product-api#readme",
+  "bugs": {
+    "url": "https://github.com/im-lakshyaa/product-api/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/im-lakshyaa/product-api.git"
+  },
+  "license": "ISC",
+  "author": "lakshya",
+  "type": "module",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "fs": "^0.0.1-security"
+  }
+}
